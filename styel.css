@@ -1,0 +1,62 @@
+body {
+    background: url("../img/1613291422_37-p-sinii-fon-dlya-storiz-51.jpg");
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.name {
+    color: #ffec00;
+    font-family: Bahnschrift;
+    background-color: #000000;
+    padding: 5px;
+}
+
+.hobi {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Consolas', 'Monaco', 'Bitstream Vera Sans Mono', monospace;
+
+}
+
+.text {
+    color: #004eff;
+    font-size: 20px;
+    margin: 50px;
+    padding: 12px;
+    background-color: #5eff00;
+}
+
+.social {
+    font-size: 20px;
+    color: #000000;
+}
+
+a {
+    color: #7a7a7a;
+    size: 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.card1 {
+    background-color: #c9ff00;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.card2 {
+    background-color: #00ffdb;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.sviz {
+    margin: 25px;
+    padding: 25px;
+    color: black;
+}
